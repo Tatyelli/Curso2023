@@ -46,7 +46,6 @@ font-size:  20px;
 text-align: center;
 color: red;
 
-}
 
 h2 {
     color: #ff9900;
@@ -56,4 +55,10 @@ h2 {
 
 body {
     background-color: burlywood;
+}
+
+#logo{
+    width: 300px;
+    margin: 0;
+    padding: 0;
 }
